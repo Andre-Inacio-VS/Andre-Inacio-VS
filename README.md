@@ -1,16 +1,26 @@
-### Hi there 👋
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
-<!--
-**Andre-Inacio-VS/Andre-Inacio-VS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/Andre-Inacio-VS">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Inacio-VS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Inacio-VS&layout=compact&langs_count=6&theme=tokyonight"/>
 
-Here are some ideas to get you started:
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ <br>
+ 
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div>
+  <a href="https://instagram.com/andreinacio.10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:andreinaciovs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-in%C3%A1cio-ven%C3%A2ncio-silva-133b5b23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Andre-Inacio-VS/Andre-Inacio-VS/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
