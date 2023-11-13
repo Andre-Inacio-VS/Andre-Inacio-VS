@@ -21,6 +21,6 @@
   <a href = "mailto:andreinaciovs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-in%C3%A1cio-ven%C3%A2ncio-silva-133b5b23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Andre-Inacio-VS/Andre-Inacio-VS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Andre-Inacio-VS/Andre-Inacio-VS/blob/output/github-contribution-grid-snake.svg)
 
 </div>
