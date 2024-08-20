@@ -30,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/Andre-Inacio-VS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Inacio-VS&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Inacio-VS&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Inacio-VS&theme=transparent&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Inacio-VS&theme=transparent&layout=compact" />
 </a>
 
 <br/>
