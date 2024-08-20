@@ -12,7 +12,7 @@
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-  ![CSS](https://img.shields.io/badge/CSS-333333?&style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![CSS3](https://img.shields.io/badge/CSS-333333?&style=for-the-badge&logo=css3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
@@ -38,10 +38,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
 <a href="https://instagram.com/andreinacio.10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:andreinaciovs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andr%C3%A9-in%C3%A1cio-ven%C3%A2ncio-silva-133b5b23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
 
 ⭐️ From [Andre-Inacio-VS](https://github.com/Andre-Inacio-VS)
