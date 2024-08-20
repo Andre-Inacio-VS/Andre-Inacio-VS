@@ -11,8 +11,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![HTML5](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+  ![CSS](https://img.shields.io/badge/CSS-333333?&style=for-the-badge&logo=css3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
