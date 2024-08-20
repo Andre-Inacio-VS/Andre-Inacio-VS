@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Andre-Inacio-VS/Andre-Inacio-VS/main/assets/banner.png">
 
-<h2> Hi there! I'm André</h2>
+<h2> Hellow there! I'm André Inácio</h2>
 
 <h3> 🗣 &nbsp;About Me </h3>
 
