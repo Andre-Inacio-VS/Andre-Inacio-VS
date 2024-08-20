@@ -38,8 +38,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://instagram.com/andreinacio.10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href = "mailto:andreinaciovs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andr%C3%A9-in%C3%A1cio-ven%C3%A2ncio-silva-133b5b23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/andreinacio.10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href = "mailto:andreinaciovs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-in%C3%A1cio-ven%C3%A2ncio-silva-133b5b23b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ⭐️ From [Andre-Inacio-VS](https://github.com/Andre-Inacio-VS)
