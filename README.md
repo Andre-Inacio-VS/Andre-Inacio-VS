@@ -1,26 +1,47 @@
-## Bem-vindo(a) ao perfil do André Inácio 😁
+<img src="https://raw.githubusercontent.com/Andre-Inacio-VS/Andre-Inacio-VS/main/assets/banner.png">
 
- <div>
-   <a href="https://github.com/Andre-Inacio-VS">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Inacio-VS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Inacio-VS&layout=compact&langs_count=6&theme=tokyonight"/>
+<h2> Hi there! I'm André</h2>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
-<div>
-  <a href="https://instagram.com/andreinacio.10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:andreinaciovs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-in%C3%A1cio-ven%C3%A2ncio-silva-133b5b23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/Andre-Inacio-VS/Andre-Inacio-VS/blob/output/github-contribution-grid-snake.svg)
+<h3> 🗣 &nbsp;About Me </h3>
 
-</div>
+- 🎓 &nbsp; Graduated in Systems Analysis and Development at the Universidade de São Paulo - UNIP in São José do Rio Preto - SP.
+- 💼 &nbsp; Working as a Front-End Development at [Protendit Construções de Estacas e Pré-Fabricados]([https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwisnY63oISIAxU4r5UCHXA9OXAQFnoECDkQAQ&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Fprotenditprefabricado&usg=AOvVaw2w3taKQn13OIZhAa6W3sW1&opi=89978449](https://br.linkedin.com/company/protenditprefabricado)).
+- 🌱 &nbsp; Learning more about UX/UI Design, Design Systems and Algorithms.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-0b1120?style=for-the-badge&logo=tailwindcss)
+  ![Prime NG](https://img.shields.io/badge/-Prime%20NG-DD0031?style=for-the-badge&logo=primeng)
+- 🛢 &nbsp;
+  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/Andre-Inacio-VS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Inacio-VS&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Inacio-VS&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://instagram.com/andreinacio.10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href = "mailto:andreinaciovs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-in%C3%A1cio-ven%C3%A2ncio-silva-133b5b23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+⭐️ From [Andre-Inacio-VS](https://github.com/Andre-Inacio-VS)
